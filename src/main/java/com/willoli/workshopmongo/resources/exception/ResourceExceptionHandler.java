@@ -1,7 +1,6 @@
 package com.willoli.workshopmongo.resources.exception;
 
 import com.willoli.workshopmongo.services.excepction.ObjectFoundException;
-import org.apache.coyote.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
